@@ -1,0 +1,954 @@
+﻿  dllmain.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\ue.h(387,47): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Abilities.h(24,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Abilities.h(24,134): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Abilities.h(60,54): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Abilities.h(70,80): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Abilities.h(72,93): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(18,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(20,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(68,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(70,65): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(77,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(79,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(81,61): warning C4267: 'argument': conversion from 'size_t' to 'const int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(93,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(95,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(96,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(98,64): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(101,98): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(102,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(112,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(114,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(115,98): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(116,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(126,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(128,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(129,98): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(130,103): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(140,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(141,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(150,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Inventory.h(151,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Looting.h(33,43): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Looting.h(609,74): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(28,51): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(29,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(187,50): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(187,166): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(189,92): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(190,50): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(192,120): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(234,192): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(240,112): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(261,50): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Bots.h(262,84): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Quests.h(9,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Quests.h(12,46): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(79,66): warning C4267: 'argument': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(242,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(466,25): warning C4267: '=': conversion from 'size_t' to 'unsigned int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(584,37): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(610,71): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(613,71): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(614,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(616,130): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(616,207): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(617,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(619,97): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(620,102): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\misc.h(649,13): warning C4101: 'v17': unreferenced local variable
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(18,25): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(23,96): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(32,23): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(37,85): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(39,102): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(106,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(107,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(107,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(108,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(108,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(169,36): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(171,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(171,83): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(270,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(302,49): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(303,46): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(327,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(345,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(363,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(382,60): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(421,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(422,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(457,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(459,120): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(461,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(463,95): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(543,22): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(633,62): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(633,188): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(633,314): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(633,436): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(633,560): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(635,104): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(703,53): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(754,99): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(757,39): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(779,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PC.h(875,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Floorloot.h(13,21): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Floorloot.h(23,21): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Vehicles.h(14,77): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Vehicles.h(27,24): warning C4305: '/=': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Vehicles.h(29,24): warning C4305: '/=': truncation from 'double' to 'float'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(30,96): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(54,6): error C2061: syntax error: identifier 'thread'
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(178,81): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(228,59): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(255,157): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(258,52): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(267,147): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(270,42): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(302,76): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(329,25): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(415,25): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(415,48): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\GameMode.h(417,22): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(32,75): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(45,66): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(76,25): warning C4244: '=': conversion from 'float' to 'int32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(82,138): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(86,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\Pawn.h(91,137): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PlayerState.h(18,36): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PlayerState.h(20,45): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\PlayerState.h(20,83): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(29,23): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(30,23): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(30,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(31,23): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(31,55): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(73,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(74,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(75,24): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SpyGames.h(75,56): warning C4267: 'argument': conversion from 'size_t' to 'uint32', possible loss of data
+  (compiling source file 'dllmain.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\dllmain.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\dllmain.cpp(89,54): warning C4267: 'argument': conversion from 'size_t' to 'const int32', possible loss of data
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\dllmain.cpp(98,54): warning C4267: 'argument': conversion from 'size_t' to 'const int32', possible loss of data
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\dllmain.cpp(107,54): warning C4267: 'argument': conversion from 'size_t' to 'const int32', possible loss of data
+  AIModule_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/AIModule_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/AIModule_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Basic.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Basic.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/Basic.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  CoreUObject_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/CoreUObject_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  EasyAntiCheatCommon_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/EasyAntiCheatCommon_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  Engine_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/Engine_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/Engine_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  FortniteGame_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/FortniteGame_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
+  GameplayAbilities_functions.cpp
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(171,31): warning C4267: '=': conversion from 'size_t' to 'int32', possible loss of data
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1138,2): warning C4369: 'SDK::EVoiceSampleRate::Low16000Hz':  enumerator value '16000' cannot be represented as 'unsigned char', value is '16000'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1139,2): warning C4369: 'SDK::EVoiceSampleRate::Normal24000Hz':  enumerator value '24000' cannot be represented as 'unsigned char', value is '24000'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(1140,2): warning C4369: 'SDK::EVoiceSampleRate::EVoiceSampleRate_MAX':  enumerator value '24001' cannot be represented as 'unsigned char', value is '24001'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Engine_structs.hpp(3615,2): warning C4369: 'SDK::ESoundWaveLoadingBehavior::ESoundWaveLoadingBehavior_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(3441,2): warning C4369: 'SDK::ELootElementType::ELootElementType_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4309: 'initializing': truncation of constant value
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\FortniteGame_structs.hpp(6005,2): warning C4369: 'SDK::EFortMinigameClassSlot::EFortMinigameClassSlot_MAX':  enumerator value '256' cannot be represented as 'unsigned char', value is '256'
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+  
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18): warning C4244: '=': conversion from 'wchar_t' to 'char', possible loss of data
+  (compiling source file 'SDK/GameplayAbilities_functions.cpp')
+      C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xutility(4689,18):
+      the template instantiation context (the oldest one first) is
+          C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,22):
+          see reference to function template instantiation 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string<std::_String_iterator<std::_String_val<std::_Simple_types<_Elem>>>,0>(_Iter,_Iter,const _Alloc &)' being compiled
+          with
+          [
+              _Elem=wchar_t,
+              _Iter=std::_String_iterator<std::_String_val<std::_Simple_types<wchar_t>>>,
+              _Alloc=std::allocator<char>
+          ]
+              C:\Users\tyler\Documents\GitHub\Gameserver-12.41\SDK\Basic.hpp(199,4):
+              see the first reference to 'std::basic_string<char,std::char_traits<char>,std::allocator<char>>::basic_string' in 'SDK::FString::ToString'
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(793,17):
+          see reference to function template instantiation 'void std::basic_string<char,std::char_traits<char>,std::allocator<char>>::_Construct_from_iter<wchar_t*,wchar_t*,_Size_type>(_Iter,const _Sent,_Size)' being compiled
+          with
+          [
+              _Size_type=unsigned __int64,
+              _Iter=wchar_t *,
+              _Sent=wchar_t *,
+              _Size=unsigned __int64
+          ]
+          C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include\xstring(949,18):
+          see reference to function template instantiation '_OutIt *std::_Copy_n_unchecked4<wchar_t*,_Size,char*>(_InIt,_SizeTy,_OutIt)' being compiled
+          with
+          [
+              _OutIt=char *,
+              _Size=unsigned __int64,
+              _InIt=wchar_t *,
+              _SizeTy=unsigned __int64
+          ]
+  
